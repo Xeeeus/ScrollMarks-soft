@@ -10,5 +10,7 @@ Written by: @smelovv.nik (TG)
 7. Wallet shuffle - делать ли перемешивание кошельков.
 
 **Файлы для работы**
+
 `private.txt` - указывать приватники
+
 `proxy.txt` - указывать прокси
